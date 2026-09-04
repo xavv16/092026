@@ -1,1 +1,1 @@
-### Default page for avtivity
+### Default page for avtivity folder
